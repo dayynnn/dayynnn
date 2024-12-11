@@ -3,7 +3,7 @@
 
 🎮 Creating Core Memories Through Games
 
-I believe gaming has the extraordinary power to create core memories—those moments of joy, nostalgia, and connection that stay with us forever. My passion lies in designing age-inclusive games that unite people, bridging generations.
+I believe gaming has the extraordinary power to create core memories—those moments of joy, nostalgia, and connection that stay with us forever. My passion lies in designing age-inclusive games that unite and bridge generations of people.
 
 With a focus on sparking joy, fostering togetherness, and building a sense of belonging, I strive to craft experiences that bring warmth and happiness to players of all ages. My goal is to create games that form lasting memories and a stronger sense of community.
 
