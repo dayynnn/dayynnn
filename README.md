@@ -1,10 +1,15 @@
 
 # About Me  
 
-🎮 Creating Core Memories Through Games
+Game Developer & Interactive Media Creator
 
-I believe gaming has the extraordinary power to create core memories—those moments of joy, nostalgia, and connection that stay with us forever. My passion lies in designing age-inclusive games that unite and bridge generations of people.
+I’m passionate about building interactive experiences that bring people together through play, creativity, and meaningful engagement. My work combines technical development and creative design across gameplay systems, digital storytelling, XR experiences, and multimedia projects.
 
-With a focus on sparking joy, fostering togetherness, and building a sense of belonging, I strive to craft experiences that bring warmth and happiness to players of all ages. My goal is to create games that form lasting memories and a stronger sense of community.
+With a background in Game Arts and hands-on development experience using Unity and C#, I enjoy working across both technical and creative workflows, from gameplay mechanics and systems implementation to visual presentation, interaction design, and collaborative production pipelines.
 
-💡 Let’s collaborate to design unforgettable gaming experiences that everyone can enjoy. Reach out to share ideas or discuss projects—I’d love to connect!
+I’m especially interested in creating experiences that spark curiosity, joy, nostalgia, and connection while exploring how interactive media can create lasting impressions and memorable moments for players and audiences alike.
+
+Tools & Technologies: Unity, C#, Maya, Git, A-Frame, WebGL, XR Development, Adobe Creative Suite
+
+Always learning, experimenting, and building.
+
