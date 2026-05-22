@@ -9,7 +9,5 @@ With a background in Game Arts and hands-on development experience using Unity a
 
 I’m especially interested in creating experiences that spark curiosity, joy, nostalgia, and connection while exploring how interactive media can create lasting impressions and memorable moments for players and audiences alike.
 
-Tools & Technologies: Unity, C#, Maya, Git, A-Frame, WebGL, XR Development, Adobe Creative Suite
-
 Always learning, experimenting, and building.
 
